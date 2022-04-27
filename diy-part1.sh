@@ -13,7 +13,7 @@
 
 echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.default
 echo 'src-git luci https://github.com/kiddin9/openwrt-bypass' >>feeds.conf.default
-echo 'src-git luci https://github.com/kiddin9/luci-app-dnsfilter' >>feeds.conf.default
+#echo 'src-git luci https://github.com/kiddin9/luci-app-dnsfilter' >>feeds.conf.default
 
 #sed -i 's@coolsnowwolf/packages@P3TERX/packages@' feeds.conf.default
 
