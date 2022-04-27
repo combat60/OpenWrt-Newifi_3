@@ -70,8 +70,7 @@ jobs:
         cd openwrt-packages
         git clone https://github.com/kiddin9/openwrt-bypass.git
         git clone https://github.com/kiddin9/luci-app-dnsfilter.git
-        
-          
+            
     - name: Load custom feeds
       run: |
         [ -e $FEEDS_CONF ] && mv $FEEDS_CONF openwrt/feeds.conf.default
