@@ -16,6 +16,7 @@ echo 'src-git passwall https://github.com/kenzok8/openwrt-packages/tree/master/l
 echo 'src-git small https://github.com/kenzok8/small' >>feeds.conf.default
 #echo 'src-git bypass https://github.com/kiddin9/openwrt-bypass.git' >>feeds.conf.default
 #echo 'src-git dnsfilter https://github.com/kenzok8/openwrt-packages/tree/master/luci-app-dnsfilter' >>feeds.conf.default
+#echo 'src-git vssr https://github.com/kenzok8/openwrt-packages/tree/master/luci-app-vssr' >>feeds.conf.default
 
 #echo 'src-git dnsfilter https://github.com/kiddin9/luci-app-dnsfilter' >>feeds.conf.default
 
