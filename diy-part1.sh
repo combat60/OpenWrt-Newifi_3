@@ -14,6 +14,8 @@
 echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.default
 echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall.git' >>feeds.conf.default
 echo 'src-git small https://github.com/kenzok8/small' >>feeds.conf.default
+echo 'src-git small https://github.com/kiddin9/openwrt-bypass.git' >>feeds.conf.default
+
 
 #echo 'src-git dnsfilter https://github.com/kiddin9/luci-app-dnsfilter' >>feeds.conf.default
 
