@@ -12,7 +12,7 @@
 #sed -i 's/^#\(.*helloworld\)/\1/' feeds.conf.defaultault
 
 echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.default
-#echo 'src-git bypass https://github.com/kiddin9/openwrt-bypass' >>feeds.conf.default
+echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall.git' >>feeds.conf.default
 #echo 'src-git dnsfilter https://github.com/kiddin9/luci-app-dnsfilter' >>feeds.conf.default
 
 #sed -i 's@coolsnowwolf/packages@P3TERX/packages@' feeds.conf.default
