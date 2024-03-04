@@ -1,1 +1,1 @@
-src-git routing https://git.openwrt.org/feed/routing.git;openwrt-21.02
+src-git routing https://github.com/coolsnowwolf/routing;main
