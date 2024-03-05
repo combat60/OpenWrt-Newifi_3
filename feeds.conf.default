@@ -1,3 +1,3 @@
-src-git routing https://github.com/coolsnowwolf/routing/tree/5437d2c91fd9f15e06fbea46677abb529ed3547c
+src-git routing https://github.com/coolsnowwolf/routing.git\^5437d2c91fd9f15e06fbea46677abb529ed3547c
 src-git theme https://github.com/gngpp/luci-theme-design;main
 src-git themeconf https://github.com/gngpp/luci-app-design-config;master
